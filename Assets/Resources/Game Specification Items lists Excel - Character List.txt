@@ -1,0 +1,7 @@
+id,name,description,classType,rarity,classElement,startingLevel,healthPoint,attackPoint,defencePoint,attackSpeed,skill_id,equipment_id,onLeaveTime,isAtk,itemPack_id,itemQuality
+1,God Johnson,old warrior,0,0,0,1,500,25,1,10,0,NaN,60,1,,0
+2,Dai Lo Sun,young soider,2,0,0,1,600,35,2,11,0,NaN,60,1,,0
+101,Devil Johnson,Low Level Monster,0,0,1,1,350,20,5,12,1,NaN,60,1,ITP_1,1
+102,Goblin,Low Level Monster,0,0,2,1,400,35,5,10,NaN,NaN,70,1,ITP_2,2
+103,Mushroom,Low Level Monster,0,0,3,1,500,40,5,14,NaN,NaN,100,1,ITP_3,3
+201,Iron Mine (Fire),Iron Mine ,2,0,0,1,20000,0,1000,0,NaN,NaN,-1,0,,10
